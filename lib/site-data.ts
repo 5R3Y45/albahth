@@ -25,7 +25,7 @@ export const company = {
   description:
     "Dubai-based electromechanical installation, maintenance, and technical support services for commercial, industrial, and residential projects.",
   address: ["Al Qusais", "Muhaisnah 4", "Gala Building", "3rd Floor", "Dubai", "United Arab Emirates"],
-  phone: "+971 XX XXX XXXX",
+  phone: "042583786",
   email: "hr@albahth.in",
   whatsapp: "+971 XX XXX XXXX"
 };
