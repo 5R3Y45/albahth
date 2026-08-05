@@ -24,8 +24,8 @@ export const company = {
   shortName: "AL BAHTH",
   description:
     "Dubai-based electromechanical installation, maintenance, and technical support services for commercial, industrial, and residential projects.",
-  address: ["Al Qusais", "Muhaisnah 4", "Gala Building", "3rd Floor", "Dubai", "United Arab Emirates"],
-  phone: "042583786",
+  address: ["Qusais", "Coastal Building Office no.309", "Al Tawar", "Dubai", "United Arab Emirates" , "P.O. Box: 76721"],
+  phone: "045707390",
   email: "hr@albahth.in",
   whatsapp: "+971 XX XXX XXXX"
 };
